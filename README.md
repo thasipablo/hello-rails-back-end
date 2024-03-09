@@ -149,7 +149,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Nessrine88/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/thasipablo/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,6 +168,6 @@ I would like to thank Microverse for giving me this project to build
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
